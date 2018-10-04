@@ -1,0 +1,15 @@
+accuracy,model_name,elapsed_testing_time
+0.881375,"C:\Users\Qbit\Inzynierka\Models\CNN_Text\runs\1512652853cnn_fh2,5_fw242_drop0.131_bs320",371.3957395553589
+0.9343137254901961,"C:\Users\Qbit\Inzynierka\Models\CNN_Text\runs\1512680159cnn_fh3,5_fw161_drop0.621_bs340",287.4571497440338
+0.9255522088353414,C:\Users\Qbit\Inzynierka\Models\CNN_Text\runs\1512687643cnn_fh5_fw191_drop0.411_bs240,255.77928614616394
+0.819175,"C:\Users\Qbit\Inzynierka\Models\CNN_Text\runs\1512692928cnn_fh2,5,1_fw53_drop0.015_bs40",216.20764923095703
+0.850625,C:\Users\Qbit\Inzynierka\Models\CNN_Text\runs\1512697375cnn_fh1_fw34_drop0.639_bs320,51.87273144721985
+0.919475,"C:\Users\Qbit\Inzynierka\Models\CNN_Text\runs\1512698069cnn_fh5,1_fw284_drop0.397_bs320",425.424369096756
+0.9507268170426065,C:\Users\Qbit\Inzynierka\Models\CNN_Text\runs\1512706848cnn_fh5_fw198_drop0.828_bs300,259.41809940338135
+0.8858145363408522,"C:\Users\Qbit\Inzynierka\Models\CNN_Text\runs\1512712205cnn_fh2,1,1_fw33_drop0.672_bs300",122.53091597557068
+0.91775,"C:\Users\Qbit\Inzynierka\Models\CNN_Text\runs\1512714230cnn_fh4,3,2_fw49_drop0.556_bs200",232.55016994476318
+0.86835,C:\Users\Qbit\Inzynierka\Models\CNN_Text\runs\1512718608cnn_fh4_fw284_drop0.109_bs320,230.2077157497406
+0.922575,C:\Users\Qbit\Inzynierka\Models\CNN_Text\runs\1513079378cnn_fh1_fw231_drop0.922_bs40,90.86187958717346
+0.869079939668175,C:\Users\Qbit\Inzynierka\Models\CNN_Text\runs\1513081288cnn_fh3_fw65_drop0.482_bs260,110.13288569450378
+0.9152130325814536,"C:\Users\Qbit\Inzynierka\Models\CNN_Text\runs\1513082461cnn_fh2,3,3_fw266_drop0.412_bs380",436.58557415008545
+0.9375875875875875,"C:\Users\Qbit\Inzynierka\Models\CNN_Text\runs\1513094450cnn_fh5,1_fw33_drop0.692_bs60",133.22570037841797

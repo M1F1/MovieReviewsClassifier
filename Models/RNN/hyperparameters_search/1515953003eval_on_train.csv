@@ -1,0 +1,13 @@
+accuracy,model_name,elapsed_testing_time
+0.53075,C:\Users\Qbit\Inzynierka\Models\RNN\runs\1512726768rnn_lstmu64_emdim300_drop0.345_bs400,149.97066140174866
+0.504775,C:\Users\Qbit\Inzynierka\Models\RNN\runs\1512729784rnn_lstmu4_emdim300_drop0.71_bs80,93.82753229141235
+0.5043543543543544,C:\Users\Qbit\Inzynierka\Models\RNN\runs\1512730908rnn_lstmu4_emdim300_drop0.443_bs180,110.96896076202393
+0.849775,C:\Users\Qbit\Inzynierka\Models\RNN\runs\1512731783rnn_lstmu64_emdim300_drop0.494_bs20,225.2125871181488
+0.499025,C:\Users\Qbit\Inzynierka\Models\RNN\runs\1512736324rnn_lstmu2_emdim300_drop0.178_bs400,83.7422821521759
+0.4991465863453815,C:\Users\Qbit\Inzynierka\Models\RNN\runs\1512739047rnn_lstmu4_emdim300_drop0.059_bs240,84.74274444580078
+0.8587837837837838,C:\Users\Qbit\Inzynierka\Models\RNN\runs\1512739892rnn_lstmu256_emdim300_drop0.338_bs60,631.3410789966583
+0.83993993993994,C:\Users\Qbit\Inzynierka\Models\RNN\runs\1512821287rnn_lstmu64_emdim300_drop0.706_bs60,173.80607962608337
+0.849625,C:\Users\Qbit\Inzynierka\Models\RNN\runs\1513109715rnn_lstmu64_emdim300_drop0.546_bs20,225.28665900230408
+0.856925,C:\Users\Qbit\Inzynierka\Models\RNN\runs\1513114343rnn_lstmu128_emdim300_drop0.634_bs20,501.59427189826965
+0.829375,C:\Users\Qbit\Inzynierka\Models\RNN\runs\1513126146rnn_lstmu64_emdim300_drop0.675_bs80,164.99073386192322
+0.8491,C:\Users\Qbit\Inzynierka\Models\RNN\runs\1513128986rnn_lstmu128_emdim300_drop0.53_bs100,274.18718552589417

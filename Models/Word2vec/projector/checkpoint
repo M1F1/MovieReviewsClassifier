@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Qbit\\Inzynierka\\Models\\Word2Vec\\projector\\w2v_model.ckpt-10000"
+all_model_checkpoint_paths: "C:\\Users\\Qbit\\Inzynierka\\Models\\Word2Vec\\projector\\w2v_model.ckpt-10000"

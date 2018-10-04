@@ -1,0 +1,2 @@
+accuracy,model_name,elapsed_training_time,elapsed_testing_time
+0.5047,bs_400_dkp_0.464_lr_0.04875405963685935_lstm_u_64,333.8322434425354,47.845958948135376
